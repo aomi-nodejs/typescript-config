@@ -18,12 +18,5 @@
     "experimentalDecorators": true,
     "strictPropertyInitialization": false,
     "declarationDir": "types"
-  },
-  "include": [
-    "src"
-  ],
-  "exclude": [
-    "test",
-    "node_modules"
-  ]
+  }
 }
