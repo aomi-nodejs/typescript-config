@@ -1,0 +1,8 @@
+{
+  "display": "Build (CommonJS) Library",
+  "extends": "./tsconfig.build.json",
+  "compilerOptions": {
+    "outDir": "./cjs",
+    "module": "CommonJS"
+  }
+}

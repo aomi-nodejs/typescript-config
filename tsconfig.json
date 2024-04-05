@@ -1,0 +1,7 @@
+{
+  "display": "Build (ESM) Library",
+  "extends": "./tsconfig.build.json",
+  "compilerOptions": {
+    "outDir": "./esm"
+  }
+}
